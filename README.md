@@ -4,7 +4,7 @@ U.QUIZ라는 퀴즈 웹 애플리케이션을 위한 초기 레이아웃과 로�
 이 웹사이트는 이미지 퀴즈를 풀며 사용자의 정답 여부를 확인하고, 타이머를 통해 제한 시간 내에 문제를 푸는 기능을 제공합니다.<br />
 
 ## 팀원소개
-|윤영식|권초록|-|
+|윤영식|권초록|김희진|
 |:---:|:---:|:---:|
 |<img width="150px" src="https://avatars.githubusercontent.com/u/144635640?v=4" />|<img width="150px" src="https://avatars.githubusercontent.com/u/144635615?v=4">|<img width="150px" src="https://avatars.githubusercontent.com/u/144635615?v=4">|
 
