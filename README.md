@@ -28,3 +28,22 @@ updateQuiz 함수를 사용하여 현재 문제를 화면에 출력했습니다.
 - 타이머 기능
 startTimer 함수를 사용하여 제한 시간 내에 사용자가 퀴즈를 푸는 기능을 추가했습니다.<br />
 setInterval을 활용하여 일정 시간 간격으로 타이머를 업데이트하고, 시간이 초과되면 사용자에게 알림을 표시하는 방식으로 구현했습니다.<br />
+
+## 스택
+<div disflay="flex" flex-direction:column; align-items:flex-start;>
+  <p><strong>Environment</strong></p>
+  <div>
+    <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
+    <img src="https://img.shields.io/badge/Filezilla-BF0000?style=flat-square&logo=Filezilla&logoColor=white">
+  </div>
+  <p><strong>Development</strong></p>
+  <div>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=black">
+  </div>
+  <p><strong>Communication</strong></p>
+  <div>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+  </div>
+</div>
