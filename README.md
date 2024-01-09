@@ -3,6 +3,11 @@
 U.QUIZ라는 퀴즈 웹 애플리케이션을 위한 초기 레이아웃과 로직을 포함하고 있습니다.<br/>
 이 웹사이트는 이미지 퀴즈를 풀며 사용자의 정답 여부를 확인하고, 타이머를 통해 제한 시간 내에 문제를 푸는 기능을 제공합니다.<br />
 
+## 팀원소개
+|윤영식|권초록|-|
+|:---:|:---:|:---:|
+|<img width="150px" src="https://avatars.githubusercontent.com/u/144635640?v=4" />|<img width="150px" src="https://avatars.githubusercontent.com/u/144635615?v=4">|<img width="150px" src="https://avatars.githubusercontent.com/u/144635615?v=4">|
+
 ## 사용된 기술
 - 배경 이미지 처리
 body와 .wrap 요소에 각각 배경 이미지를 적용하여 페이지와 콘텐츠의 배경을 꾸몄습니다.<br />
